@@ -1,0 +1,57 @@
+.caja{
+    width: 400px;
+    height: 450px;
+    margin-top: 8rem;
+    margin-left: 45rem;
+    padding-top: 15rem;
+    border-radius: 2rem;
+    background-color: rgb(95, 113, 97, 0.9);
+    display: block;
+    align-content: center;
+}
+.usuario{
+    width: 230px;
+    height: 70px;
+    background-color: white;
+    border-radius: 2rem;
+    margin-left: 8.5rem;
+    padding: 2.5rem 2rem 2rem 2rem;
+}
+.name{
+    margin-top: 5rem;
+}
+.regresar {
+    width: 100px;
+    height: 40px;
+    border-radius: 1rem;
+    border-style: none;
+    margin-top: 2rem;
+    margin-left: 7.5rem;
+}
+.regresar > img{
+    width: 30px;
+    height: 30px;
+}
+.seguir{
+    width: 100px;
+    height: 40px;
+    margin-left: 5rem;
+    border-radius: 1rem;
+    border-style: none;
+}
+.seguir > img{
+    width: 30px;
+    height: 30px;
+}
+.regresar:hover{
+    background-color: rgba(245, 213, 72, 0.87);
+}
+.seguir:hover{
+    background-color: rgba(245, 213, 72, 0.87);
+}
+.name{
+    font-size: 15px;
+    margin-left: 7rem;
+    margin-bottom: -5rem;
+    text-align: center;
+}
